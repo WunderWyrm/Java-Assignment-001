@@ -1,3 +1,11 @@
+/**
+ *
+ * @author Trevor Hartman
+ * @author Samuel Theiss
+ *
+ * @since Version 1.0
+ *
+ * */
 public class AlanTuring {
     /**
      * Prints Alan Turing to the console
@@ -5,5 +13,6 @@ public class AlanTuring {
      **/
     public static void main(String[] args) {
         // Write your program here
+        System.out.println("Alan Turing");
     }
 }
